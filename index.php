@@ -232,43 +232,19 @@
                     <div class="bg-slider">
                         <img src="images/slide/slider_h5_01.jpg" alt="" class="img-responsive">
                     </div>
-                    <div class="content">
-                        <div class="category-name" data-animation="fadeInRight" data-delay="0.5s"><a href="#">House Plant, Office Plant</a></div>
-                        <h5 class="title" data-animation="fadeInRight" data-delay="1s"><a href="#">Chakra Crystal Healing</a></h5>
-                        <div class="box-price" data-animation="fadeInRight" data-delay="1.2s">
-                            <span class="old-price"><del>$750.00</del></span>
-                            <span class="price">$350.00</span>
-                        </div>
-                        <div class="btn-slide btn-theme" type="button" data-animation="fadeInUp" data-delay="1.4s"><a href="#">Buy Now</a></div>
-                    </div>
+
                 </div>
                 <div class="slider-img slider-v5">
                     <div class="bg-slider">
                         <img src="images/slide/slider_h5_02.jpg" alt="" class="img-responsive">
                     </div>
-                    <div class="content">
-                        <div class="category-name" data-animation="fadeInRight" data-delay="0.5s"><a href="#">House Plant, Office Plant</a></div>
-                        <h5 class="title" data-animation="fadeInRight" data-delay="1s"><a href="#">Chakra Crystal Healing</a></h5>
-                        <div class="box-price" data-animation="fadeInRight" data-delay="1.2s">
-                            <span class="old-price"><del>$750.00</del></span>
-                            <span class="price">$350.00</span>
-                        </div>
-                        <div class="btn-slide btn-theme" type="button" data-animation="fadeInUp" data-delay="1.4s"><a href="#">Buy Now</a></div>
-                    </div>
+
                 </div>
                 <div class="slider-img slider-v5">
                     <div class="bg-slider">
                         <img src="images/slide/slider_h5_03.jpg" alt="" class="img-responsive">
                     </div>
-                    <div class="content">
-                        <div class="category-name" data-animation="fadeInRight" data-delay="0.5s"><a href="#">House Plant, Office Plant</a></div>
-                        <h5 class="title" data-animation="fadeInRight" data-delay="1s"><a href="#">Chakra Crystal Healing</a></h5>
-                        <div class="box-price" data-animation="fadeInRight" data-delay="1.2s">
-                            <span class="old-price"><del>$750.00</del></span>
-                            <span class="price">$350.00</span>
-                        </div>
-                        <div class="btn-slide btn-theme" type="button" data-animation="fadeInUp" data-delay="1.4s"><a href="#">Buy Now</a></div>
-                    </div>
+
                 </div>
             </div>
         </div>
