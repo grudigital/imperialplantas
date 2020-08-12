@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 
 <head>
     <meta charset="UTF-8">
@@ -24,6 +24,13 @@
 </head>
 
 <body>
+<div class=" bg-menu-sup">
+<div class="row">
+    <div class="col-sm-12">
+        <a class="about-us"> Contato</a>
+    </div>
+</div>
+    </div>
 <!-- HEADER -->
 <header id="main-header" class="header-v5 hidden-sm hidden-xs">
     <div class="container-fluid">
@@ -95,6 +102,9 @@
                                 </div>
                             </li>
 
+                            <li class="level1 megamenu-fullwidth">
+                                <a href="#">Galeria</a>
+                            </li>
                             <li class="level1 megamenu-fullwidth">
                                 <a href="#">Blog</a>
                             </li>
@@ -230,7 +240,7 @@
             <div id="slider-v5" class="fullw-slider">
                 <div class="slider-img slider-v5">
                     <div class="bg-slider">
-                        <img src="images/slide/slider_h5_01.jpg" alt="" class="img-responsive">
+                        <img href="contato.html" src="images/slide/slider_h5_01.jpg"  alt="" class="img-responsive">
                     </div>
 
                 </div>
@@ -452,6 +462,43 @@
         </div>
     </div>
 </section>
+<br><br>
+
+</div>
+<section class="testimonial">
+    <div class="container-fluid">
+        <div class="gallery-cat   text-center ">
+            <h2 class="title-h3">Depoimentos de clientes</h2>
+        </div>
+        <div class="testimonials-body">
+            <div class="bg-testimonials"></div>
+            <div class="testimonial-content carousel-slide">
+                <div class="slider-testimonial">
+                    <div class="testimonials-quote">
+                        <i class="fa fa-quote-left"></i>
+                        <p>I rarely write reviews for products but with the EngoCreative, I am more than grateful. The site is fully customizable and you can really feel like playing while designing the site!</p>
+                    </div>
+                    <div class="testimonials-profile">
+                        <h4 class="name">Janathan Vance</h4>
+                        <div class="job">CEO & Founder EngoCreative</div>
+                    </div>
+                </div>
+                <div class="slider-testimonial">
+                    <div class="testimonials-quote">
+                        <i class="fa fa-quote-left"></i>
+                        <p>I rarely write reviews for products but with the EngoCreative, I am more than grateful. The site is fully customizable and you can really feel like playing while designing the site!</p>
+                    </div>
+                    <div class="testimonials-profile">
+                        <h4 class="name">Janathan Vance</h4>
+                        <div class="job">CEO & Founder EngoCreative</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <!-- SLIDER -->
 <section class="section-slider-v5 ">
     <div class="bg clearfix">
@@ -497,18 +544,42 @@
         </div>
     </div>
 </section>
+
 <!-- END / SLIDER -->
-<footer class="footer">
-    <div class="container">
-        <div class="form text-center">
-            <h5 class="title-h5">NEWSLETTER<br>Cadastre o seu e-mail para receber novidades!</h5>
-            <form action="#">
-                <input name="email" placeholder="Digite seu e-mail" class="form-control" type="text">
-            </form>
-            <div class="btn-web btn-web-1 ">
-                <a href="#" title="">Cadastrar</a>
+
+<div class="form">
+    <form>
+        <div class="form-row btn-web campos-form">
+            <h5 class="title-h5">Faça seu Orçamento<br>Preencha com os seus dados que entraremos em contato!</h5>
+            <div class="col">Nome
+                <input type="text" class="form-control" placeholder="Nome">
+            </div>
+            <br>
+            <div class="col">Sobrenome
+                <input type="text" class="form-control" placeholder="Sobrenome">
+            </div>
+            <br>
+            <div class="col">Telefone
+                <input type="text" class="form-control" placeholder="Telefone">
+            </div>
+            <br>
+            <div class="col">E-mail
+                <input type="text" class="form-control" placeholder="E-mail">
+            </div>
+            <br>
+            <div class="form-group">
+                <label class="control-label">Mensagem</label>
+                <textarea name="textarea" class="form-control" rows="6" required="required" placeholder="Digite sua mensagem aqui..."></textarea>
+            </div>
+            <div class="btn-web ">
+                <a href="#" title="">Enviar Mensagem</a>
             </div>
         </div>
+    </form>
+</div>
+<footer class="footer">
+    <div class="container">
+
         <div class="footer-bottom">
 
             <div class="row">
@@ -616,6 +687,10 @@
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDyCxHyc8z9gMA5IlipXpt0c33Ajzqix4"></script>
 <!-- Custom jQuery -->
 <script type="text/javascript" src="js/function.js"></script>
+
+
+
+
 </body>
 
 </html>

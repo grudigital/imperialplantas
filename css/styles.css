@@ -7340,20 +7340,21 @@ button.close {
       margin: 0 15px; } }
 
 .testimonial .bg-testimonials {
-  background: url(../images/bg/bg_testimonial.jpg) no-repeat;
+  <!----background: url(../images/bg/bg_testimonial.jpg) no-repeat;------>
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
   min-height: 533px; }
   .testimonial .bg-testimonials:before {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgb(126 161 90);
     content: "";
     left: 0;
     position: absolute;
-    top: 0;
+    top: -30px;
     z-index: 1;
     width: 100%;
-    height: 100%; }
+    height: 90%;
+    margin-top: 60px; }
 
 .testimonial .testimonial-content {
   margin: auto;
@@ -12233,4 +12234,16 @@ li {
 
 .copy-rodape a{
   color:#80b435 ;
+}
+
+.bg-menu-sup{
+  background-color: #7fa15a;
+  height: 90px;
+  position: relative;
+  z-index: -1;
+}
+
+.campos-form{
+  margin-left: 300px;
+  margin-right: 300px;
 }
