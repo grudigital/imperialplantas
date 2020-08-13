@@ -24,15 +24,18 @@
 </head>
 
 <body>
-<div class=" bg-menu-sup">
+<div class="bg-menu-sup">
+    <p style="float: right; color: #fff; padding-top: 2px; font-size: 15px; margin-right: 42px">email@email.com.br</p>
+</div>
 
-    </div>
+
+
 <!-- HEADER -->
 <header id="main-header" class="header-v5 hidden-sm hidden-xs">
     <div class="container-fluid" >
-        <div class="inner row" style="margin-top: -95px; padding-top: 20px; background-color: #FFFFFF">
+        <div class="inner row" style="margin-top: -85px; padding-top: 10px; background-color: #FFFFFF">
             <div class="logo col-lg-2 col-md-2">
-                <a href="#" title="logo"><img alt="logo-theme" src="images/logo.png" class="img-responsive"></a>
+                <a href="index.php" title="logo"><img alt="logo-theme" src="images/logo.png" class="img-responsive"></a>
             </div>
             <div class="header-right col-lg-10 col-md-10">
                 <!-- Start Main Menu -->
@@ -40,25 +43,25 @@
                     <nav class="navbar collapse navbar-collapse">
                         <ul class="nav navbar-nav">
                             <li class="level1 active hassub megamenu-default">
-                                <a href="#">Home</a>
+                                <a href="index.php">Home</a>
                             </li>
                             <li class="level1">
-                                <a href="quemsomos.html">Quem Somos</a>
+                                <a href="quemsomos.php">Quem Somos</a>
                             </li>
                             <li class="level1 active hassub megamenu-default">
-                                <a href="produtoseservicos.html">Produtos e Serviços</a>
+                                <a href="produtoseservicos.php">Produtos e Serviços</a>
                             </li>
                             <li class="level1 megamenu-fullwidth">
-                                <a href="#">Galeria</a>
+                                <a href="galeria.php">Galeria</a>
                             </li>
                             <li class="level1 megamenu-fullwidth">
-                                <a href="#">Blog</a>
+                                <a href="blog.php">Blog</a>
                             </li>
                             <li class="level1">
-                                <a href="contato.html">Contato</a>
+                                <a href="contato.php">Contato</a>
                             </li>
                             <li class="level1">
-                                <a href="#">Dúvidas</a>
+                                <a href="duvidas.php">Dúvidas</a>
                             </li>
                         </ul>
 
@@ -78,6 +81,10 @@
     </div>
 </header>
 <!-- END-HEADER -->
+
+
+
+
 <header id="header_mobile" class="header-mobile-default hidden-lg hidden-md">
     <div class="header-top">
         <div class="container">
