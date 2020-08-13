@@ -347,10 +347,10 @@
 <section class="banner-v5 clearfix">
     <div class="v5">
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-            <img src="images/banner/11.jpg" alt="">
+            <a href="contato.html"><img src="images/banner/11.jpg" alt=""></a>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-            <img src="images/banner/10.jpg" alt="">
+            <a href="contato.html>"> <img  src="images/banner/10.jpg" alt=""></a>
         </div>
     </div>
 </section>
