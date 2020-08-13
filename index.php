@@ -50,58 +50,8 @@
                                 <a href="quemsomos.html">Quem Somos</a>
                             </li>
                             <li class="level1 active hassub megamenu-default">
-                                <a href="#">Produtos e Serviços</a>
-                                <div class="submenu-v1">
-                                    <img src="images/banner/banner_menu.jpg" alt="banner menu">
-                                    <div class="row margin-b-30">
-                                        <div class="col-md-3">
-                                            <div class="title-submenu">
-                                                <span>House Plants</span>
-                                            </div>
-                                            <ul>
-                                                <li><a href="#">Cactus</a></li>
-                                                <li><a href="#">Flowering</a></li>
-                                                <li><a href="#">Nutrients</a></li>
-                                                <li><a href="#">Shade Plants</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="title-submenu">
-                                                <span>Office Plants</span>
-                                            </div>
-                                            <ul>
-                                                <li><a href="#">Bulbs</a></li>
-                                                <li><a href="#">Green Plants</a></li>
-                                                <li><a href="#">Kokodama</a></li>
-                                                <li><a href="#">Cactus</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="title-submenu">
-                                                <span>Garden Plants</span>
-                                            </div>
-                                            <ul>
-                                                <li><a href="#">Vegetable</a></li>
-                                                <li><a href="#">Herb Plants</a></li>
-                                                <li><a href="#">Patio Plants</a></li>
-                                                <li><a href="#">Bonsai</a></li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="title-submenu">
-                                                <span>Accessories</span>
-                                            </div>
-                                            <ul>
-                                                <li><a href="#">Pot</a></li>
-                                                <li><a href="#">Bonsai Tools</a></li>
-                                                <li><a href="#">Food</a></li>
-                                                <li><a href="#">Gift Items</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                                <a href="produtoseservicos.html">Produtos e Serviços</a>
                             </li>
-
                             <li class="level1 megamenu-fullwidth">
                                 <a href="#">Galeria</a>
                             </li>
@@ -379,10 +329,10 @@
                                             <img src="images/product/pro_10.jpg" class="img-responsive" alt="Product" title="images products">
                                         </a>
                                         <div class="content-item">
-                                            <h5 class="title-h5"><a href="">Titulo da publicação</a></h5>
                                             <div class="bottom">
                                                 <div class="text-right">
                                                     <span class="height">133 cm</span>
+                                                    <h5 class="title-h5"><a href="">Titulo da publicação</a></h5>
                                                 </div>
                                             </div>
                                         </div>
@@ -550,7 +500,7 @@
 <div class="form">
     <form>
         <div class="form-row btn-web campos-form">
-            <h5 class="title-h5">Faça seu Orçamento<br>Preencha com os seus dados que entraremos em contato!</h5>
+            <h5 class="title-h5">Solicite seu Orçamento<br>Preencha com os seus dados que entraremos em contato!</h5>
             <div class="col">Nome
                 <input type="text" class="form-control" placeholder="Nome">
             </div>
