@@ -25,16 +25,12 @@
 
 <body>
 <div class=" bg-menu-sup">
-<div class="row">
-    <div class="col-sm-12">
-        <a class="about-us"> Contato</a>
-    </div>
-</div>
+
     </div>
 <!-- HEADER -->
 <header id="main-header" class="header-v5 hidden-sm hidden-xs">
-    <div class="container-fluid">
-        <div class="inner row">
+    <div class="container-fluid" >
+        <div class="inner row" style="margin-top: -95px; padding-top: 20px; background-color: #FFFFFF">
             <div class="logo col-lg-2 col-md-2">
                 <a href="#" title="logo"><img alt="logo-theme" src="images/logo.png" class="img-responsive"></a>
             </div>
