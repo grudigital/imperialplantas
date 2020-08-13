@@ -21,4 +21,47 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css">
     <!-- MAIN STYLE -->
     <link rel="stylesheet" href="css/styles.css">
+    <style type="text/css">
+        .overlay {
+            display: none;
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            z-index: 1001;
+            -moz-opacity: 0.8;
+            opacity: .80;
+            filter: alpha(opacity=80);
+        }
+
+        .conteudo {
+            display: none;
+            position: absolute;
+            top: 25%;
+            left: 25%;
+            width: 50%;
+            height: 50%;
+            padding: 16px;
+            border: 16px solid #7FA15A;
+            background-color: white;
+            z-index: 1002;
+            overflow: auto;
+        }
+    </style>
+    <script type="text/javascript">
+
+        function Abrir()
+        {
+            document.getElementById('light').style.display= 'block';
+            document.getElementById('fade').style.display='block';
+        }
+
+        function Fechar()
+        {
+            document.getElementById('light').style.display='none';
+            document.getElementById('fade').style.display='none';
+        }
+    </script>
 </head>

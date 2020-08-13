@@ -36,7 +36,7 @@
                                 <a href="produtoseservicos.php">Produtos e Serviços</a>
                             </li>
                             <li class="level1 megamenu-fullwidth">
-                                <a href="galeria.php">Galeria</a>
+                                <a href="galerias.php">Galerias</a>
                             </li>
                             <li class="level1 megamenu-fullwidth">
                                 <a href="blog.php">Blog</a>

@@ -10,6 +10,7 @@
                             <li><a href="quemsomos.php">Quem Somos  </a></li>
                             <li><a href="produtoseservicos.php">Produtos e Serviços</a></li>
                             <li><a href="blog.php">  Blog </a></li>
+                            <li><a href="galerias.php">  Galerias </a></li>
                             <li><a href="contato.php">  Contato </a></li>
                             <li><a href="duvidas.php">  Dúvidas </a></li>
                         </ul>
