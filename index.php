@@ -47,7 +47,7 @@
                                 <a href="#">Home</a>
                             </li>
                             <li class="level1">
-                                <a href="#">Quem Somos</a>
+                                <a href="quemsomos.html">Quem Somos</a>
                             </li>
                             <li class="level1 active hassub megamenu-default">
                                 <a href="#">Produtos e Serviços</a>
@@ -109,7 +109,7 @@
                                 <a href="#">Blog</a>
                             </li>
                             <li class="level1">
-                                <a href="#">Contato</a>
+                                <a href="contato.html">Contato</a>
                             </li>
                             <li class="level1">
                                 <a href="#">Dúvidas</a>
