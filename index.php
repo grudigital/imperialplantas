@@ -240,19 +240,19 @@
             <div id="slider-v5" class="fullw-slider">
                 <div class="slider-img slider-v5">
                     <div class="bg-slider">
-                        <img href="contato.html" src="images/slide/slider_h5_01.jpg"  alt="" class="img-responsive">
+                        <a href="contato.html"> <img href="contato.html" src="images/slide/slider_h5_01.jpg"  alt="" class="img-responsive"></a>
                     </div>
 
                 </div>
                 <div class="slider-img slider-v5">
                     <div class="bg-slider">
-                        <img src="images/slide/slider_h5_02.jpg" alt="" class="img-responsive">
+                        <a href="contato.html"><img src="images/slide/slider_h5_02.jpg" alt="" class="img-responsive"></a>
                     </div>
 
                 </div>
                 <div class="slider-img slider-v5">
                     <div class="bg-slider">
-                        <img src="images/slide/slider_h5_03.jpg" alt="" class="img-responsive">
+                        <a href="contato.html"> <img src="images/slide/slider_h5_03.jpg" alt="" class="img-responsive"></a>
                     </div>
 
                 </div>
