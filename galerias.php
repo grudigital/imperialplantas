@@ -39,7 +39,7 @@
 
                     <div id="light" class="conteudo">
                         <a href="javascript:void(0)" onclick="Fechar();">Fechar</a>
-                        <img src="images/product/pro_08b.jpg" style="width: 95%; margin-top: 10px" alt="Product" title="images products">
+                        <img src="images/product/pro_08b.jpg" style="width: 95%; height: 90%; margin-top: 10px" alt="Product" title="images products">
                     </div>
 
 
